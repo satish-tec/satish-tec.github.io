@@ -1,14 +1,4 @@
-/**
- * Swiper 6.8.1
- * Most modern mobile touch slider and framework with hardware accelerated transitions
- * https://swiperjs.com
- *
- * Copyright 2014-2021 Vladimir Kharlampidi
- *
- * Released under the MIT License
- *
- * Released on: August 3, 2021
- */
+
 
 !(function (e, t) {
   "object" == typeof exports && "undefined" != typeof module
