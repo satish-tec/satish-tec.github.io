@@ -18,7 +18,9 @@ This is a personal project, but I am open to feedback and suggestions for improv
 
 ## Contact
 For any inquiries, feel free to reach out via:
+
 Email: satishprajapati3487@gmail.com
+
 LinkedIn: Satish Prajapati
 
 ![image](https://github.com/user-attachments/assets/6e7992e5-3ac8-491d-83c8-61453766c13c)
