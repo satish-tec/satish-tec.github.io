@@ -5,14 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Satish Prajapati</title>
-    <style>
-        .counter {
-            font-size: 20px;
-            color: #333;
-            margin-top: 20px;
-            text-align: center;
-        }
-    </style>
     <link rel="stylesheet" href="assets/styles1.css" />
     <link rel="stylesheet" href="assets/styles.css" />
     <link
@@ -720,25 +712,7 @@
 
         <p class="footer__copy">&#169; Satish. All right reserved</p>
       </div>
-      <div class="counter">
-        You are visitor number: <span id="visitor-count"></span>
-    </div>
-
-    <script>
-        // Check if the visitor count exists in localStorage
-        if (localStorage.getItem('visitorCount')) {
-            // Retrieve the stored value
-            let count = localStorage.getItem('visitorCount');
-            count = parseInt(count) + 1;  // Increment count
-            localStorage.setItem('visitorCount', count);  // Update localStorage
-        } else {
-            // First time visiting the site
-            localStorage.setItem('visitorCount', 1);
-        }
-
-        // Display the current visitor count
-        document.getElementById('visitor-count').innerText = localStorage.getItem('visitorCount');
-    </script>
+  
     </footer>
 
     <!--******************SCROLL TOP****************** -->
